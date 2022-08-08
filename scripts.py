@@ -1,5 +1,4 @@
 #Import libraries
-import os
 import csv
 import re
 
